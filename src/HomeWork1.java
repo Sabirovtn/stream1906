@@ -1,6 +1,5 @@
 public class HomeWork1 {
     public static void main(String[] args) {
-        // System.out.println("Привет мир");
         byte varByte = -120;
         short varShort = 1806;
         int year =100, a, b, c, d;
